@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> My Stack </h2>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="50"height="50" display="inline"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50"height="50"/>
+<div>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="50"height="50" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50"height="50"/>
+</div>
+
           
           
