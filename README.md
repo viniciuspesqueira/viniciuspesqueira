@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<br>
 <h2>⛏️ My Stack </h2>
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="50"height="50" />
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="50"height="50"/>
 </div>
 
-
+<br>
 <h2>👤 More about me</h2>
 
 + 🧑‍🏫 Scholarship Instructor at Hacktown Academy
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   
 + ⚽🎮 Loves Sports and Games 
 
-
+<br>
 <h2>📱 Social Midia</h2>
 <div>
           <a href = "mailto:vinicius.pesqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
