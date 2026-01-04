@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 + ⚽🎮 Loves Sports and Games 
 
 <br>
-<h2>📱 Social Midia</h2>
+<h2>📱 Social Media</h2>
 <div>
           <a href = "mailto:vinicius.pesqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           <a href="https://www.linkedin.com/in/viniciuspesqueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=devbox&logoColor=white" target="_blank"></a>
