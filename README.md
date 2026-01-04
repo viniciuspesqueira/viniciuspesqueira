@@ -33,5 +33,10 @@ Here are some ideas to get you started:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="50"height="50"/>
 </div>
 
+<h2>More about me</h2>
+- 🧑‍🏫 Scholarship Instructor at Hacktown Academy
+- 🧑‍🚀 BNB Chain Martian
+- ⚽🎮 Loves Sports and Games 
+
           
           
