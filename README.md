@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2> My Stack </h2>
+<h2>⛏️ My Stack </h2>
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="50"height="50" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50"height="50"/>
@@ -33,10 +33,17 @@ Here are some ideas to get you started:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="50"height="50"/>
 </div>
 
-<h2>More about me</h2>
-- 🧑‍🏫 Scholarship Instructor at Hacktown Academy
-- 🧑‍🚀 BNB Chain Martian
-- ⚽🎮 Loves Sports and Games 
+<h2>👤 More about me</h2>
 
-          
++ 🧑‍🏫 Scholarship Instructor at Hacktown Academy
+
++ 🧑‍🚀 BNB Chain Martian
+  
++ ⚽🎮 Loves Sports and Games 
+
+<h2>📱 Social Midia</h2>
+<div>
+          <a href = "mailto:vinicius.pesqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+          <a href="https://www.linkedin.com/in/viniciuspesqueira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=devbox&logoColor=white" target="_blank"></a>
+</div>
           
