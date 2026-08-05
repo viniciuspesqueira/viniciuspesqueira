@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-<h2>⛏️ My Stack </h2>
+<h2>⛏️ My Stack and Stats </h2>
 <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="50"height="50" />
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50"height="50"/>
@@ -34,7 +34,9 @@ Here are some ideas to get you started:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="50"height="50"/>
 </div>
 
-[![Vinicius Pesqueira GitHub stats](https://github-stats-extended.vercel.app/api?username=viniciuspesqueira)](https://github.com/stats-organization/github-stats-extended)
+<br>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=viniciuspesqueira&langs_count=6&theme=vue)](https://github-stats-extended.vercel.app/api/top-langs?username=viniciuspesqueira&langs_count=6&theme=vue)
 
 <br>
 <h2>👤 More about me</h2>
