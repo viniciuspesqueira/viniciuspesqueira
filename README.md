@@ -34,9 +34,7 @@ Here are some ideas to get you started:
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="50"height="50"/>
 </div>
 
-[![Statitics](https://github-readme-stats.vercel.app/api?username=viniciuspesqueira&show_icons=true&theme=radical)](https://github.com/viniciuspesqueira)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuspesqueira&layout=compact&theme=radical)](https://github.com/viniciuspesqueira)
+[![Vinicius Pesqueira GitHub stats](https://github-stats-extended.vercel.app/api?username=viniciuspesqueira)](https://github.com/stats-organization/github-stats-extended)
 
 <br>
 <h2>👤 More about me</h2>
