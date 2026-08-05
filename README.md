@@ -38,8 +38,6 @@ Here are some ideas to get you started:
 <h2>👤 More about me</h2>
 
 + 🧑‍🏫 Scholarship Instructor at Hacktown Academy
-
-+ 🧑‍🚀 BNB Chain Martian
   
 + ⚽🎮 Loves Sports and Games 
 
