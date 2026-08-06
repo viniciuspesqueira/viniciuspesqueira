@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=viniciuspesqueira&langs_count=6&theme=graywhite)](https://github-stats-extended.vercel.app/api/top-langs?username=viniciuspesqueira&langs_count=6&theme=graywhite)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=viniciuspesqueira&langs_count=6&theme=dark)](https://github-stats-extended.vercel.app/api/top-langs?username=viniciuspesqueira&langs_count=6&theme=dark)
 
 <br>
 <h2>👤 More about me</h2>
